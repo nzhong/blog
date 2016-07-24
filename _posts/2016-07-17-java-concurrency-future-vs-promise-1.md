@@ -6,7 +6,8 @@ tags:  Java Concurrency Async
 comments: false
 ---
 
-## Future
+Future
+======
 
 <a href="https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Future.html">Future</a> was introduced in Java 7. It represents the result of an asynchronous computation that may or may not have completed. One way to think of it is like this:
 
