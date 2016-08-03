@@ -3,7 +3,7 @@ layout: post
 title:  "Java Concurrency: Future vs Promise, Part I"
 date: 2016-07-17 16:25:06 -0700
 tags:  Java Concurrency Async
-comments: false
+comments: true
 ---
 
 Future
