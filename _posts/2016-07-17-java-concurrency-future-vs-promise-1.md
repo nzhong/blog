@@ -67,3 +67,15 @@ Or, if we don't want to give up so easily (let's say the very_slow_blocking_calc
       ft.cancel(true);
   }
 ```
+
+A complete Java source code can be found 
+<a href="https://github.com/nzhong/future-vs-promise/blob/master/src/main/java/com/learn/promise/FutureSimpleGet.java">here</a>.
+
+***
+
+- <b>Part I (this article): Future explained</b>
+- <a href="https://nzhong.github.io/blog/2016/08/java-concurrency-future-vs-promise-2">Part II: Future vs Promise</a>
+- <a href="https://nzhong.github.io/blog/2016/08/java-concurrency-future-vs-promise-3">Part III: Use Promise to combine multiple async requests, serial or parallel</a>
+
+<br/><br/><br/>
+<br/><br/><br/>
